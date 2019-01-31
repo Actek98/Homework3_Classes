@@ -1,0 +1,7 @@
+F:\Ilya\С#kurs\Homework3\Classes\bin\Debug\Classes.exe.config
+F:\Ilya\С#kurs\Homework3\Classes\bin\Debug\Classes.exe
+F:\Ilya\С#kurs\Homework3\Classes\bin\Debug\Classes.pdb
+F:\Ilya\С#kurs\Homework3\Classes\obj\Debug\Classes.csprojAssemblyReference.cache
+F:\Ilya\С#kurs\Homework3\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+F:\Ilya\С#kurs\Homework3\Classes\obj\Debug\Classes.exe
+F:\Ilya\С#kurs\Homework3\Classes\obj\Debug\Classes.pdb
